@@ -1,0 +1,1 @@
+* This file is important for all ALX School projects.
